@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: rgba(234, 230, 230, 0.742);
+   
+}
+.c1{ 
+    color:black;
+    text-align: center;
+    margin-top: 10%;
+}
+@keyframes glowing{
+    0%{ box-shadow: 0 0 10px yellow;}
+    50%{box-shadow: 0 0 30px yellow;}
+    100%{box-shadow: 0 0 10px yellow;}
+}
+
+#i1{
+    display:grid;
+    text-align: start;
+    
+    
+}
+#sub{
+    color:darkslategrey;
+    background-color: yellow;
+}
